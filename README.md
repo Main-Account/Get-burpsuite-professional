@@ -5,9 +5,8 @@
 
 
 ### What is Burpsuite?
-```
-Burp Suite is an integrated platform/graphical tool for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, through to finding and exploiting security vulnerabilities.
-```
+> Burp Suite is an integrated platform/graphical tool for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, through to finding and exploiting security vulnerabilities.
+
 Follow below steps to get the Professional version of BurpSuite.
 
 ** Steps: ** 
