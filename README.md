@@ -9,21 +9,21 @@
 
 Follow below steps to get the Professional version of BurpSuite.
 
-** Steps: ** 
+>  Steps: 
 
-Download the Burp-Suite from the link: https://mega.nz/folder/9slnkTxR#aif6p6nWN8zNQgrNiiOixg
+> Download the Burp-Suite from the link: https://mega.nz/folder/9slnkTxR#aif6p6nWN8zNQgrNiiOixg
 
-Extract the file.
+> Extract the file.
 ```
 (Password: 123)
 ```
-Visit the folder & Open terminal there
+> Visit the folder & Open terminal there
 
 
 ![alt text](https://miro.medium.com/max/640/1*kn2bwG94r7LkPL1jWUzgtg.webp)
 
 
-Now run the following command to run the BURP-Loader:
+> Now run the following command to run the BURP-Loader:
 ```
 java -jar burploader.jar
 ```
@@ -31,55 +31,55 @@ java -jar burploader.jar
 ![alt text](https://miro.medium.com/max/720/1*4yxra1EkcNJL0hz-xjNeTg.webp)
 
 
-Copy the License key and Press Run Button.
+> Copy the License key and Press Run Button.
 
 
 ![alt text](https://miro.medium.com/max/720/1*EZ6PU0Ph1s54Ynh_sWkZPQ.webp)
 
-Press I Accept to agreement.
+> Press I Accept to agreement.
 
 ![alt text](https://miro.medium.com/max/640/1*jfQsujxwfoj36_jWP_SRyA.webp)
 
-Copy the key and Paste it into license field, and click next.
+> Copy the key and Paste it into license field, and click next.
 
 
 ![alt text](https://miro.medium.com/max/720/1*kpZ9fxDmI0Iz5domjDbbfw.webp)
 
 
-Now Press on “MANUAL ACTIVATION”
+> Now Press on “MANUAL ACTIVATION”
 
 
 ![alt text](https://miro.medium.com/max/640/1*uVb5tynZHj2i1KgWZApaPw.webp)
 
 
-Now follow the steps in below image and copy paste the activation codes accordingly, and click next
+> Now follow the steps in below image and copy paste the activation codes accordingly, and click next
 
 ![alt text](https://miro.medium.com/max/720/1*4NdzKtSkJSlp0aW2aovS7g.webp)
 
 
-Your Burpsuite Professional will be activated.
+> Your Burpsuite Professional will be activated.
 
 
 
 ![alt text](https://miro.medium.com/max/640/1*JSSGZST3BzIOQOqOEXrEdA.webp)
 
 
-Now open Terminal into the same folder you extracted the BURPSUITE Zip file and type the below command
+> Now open Terminal into the same folder you extracted the BURPSUITE Zip file and type the below command
 ```
 echo java -noverify -javaagent:burploader.jar -jar burpsuite_pro_v2020.12.1.jar > burp
 ```
 
-Change the file permission by using the below command
+> Change the file permission by using the below command
 ```
 chmod +x burp
 ```
 
-Now move the file into the /bin folder, so you can run burpsuite professional.
+> Now move the file into the /bin folder, so you can run burpsuite professional.
 ```
 mv burp /bin
 ```
 
-Now just type “burp” into the terminal and the Burpsuite Professional will be launched.
+> Now just type “burp” into the terminal and the Burpsuite Professional will be launched.
 ```
 burp
 ```
@@ -90,7 +90,7 @@ burp
 ![alt text](https://miro.medium.com/max/640/1*5LhXtX9R7xSenk68W43sFw.webp)
 
 
-We have successfully cracked Burpsuite, Now Happy Hunting for Bugs :)
+> We have successfully cracked Burpsuite, Now Happy Hunting for Bugs :)
 ```
 All credits to : 
 https://systemweakness.com/how-to-crack-install-burpsuite-professional-in-kali-linux-a67eccba8b3d
