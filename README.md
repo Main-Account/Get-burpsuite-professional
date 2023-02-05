@@ -35,30 +35,30 @@ Copy the License key and Press Run Button.
 
 Press I Accept to agreement.
 
-![alt text]([http://url/to/img.png](https://miro.medium.com/max/640/1*jfQsujxwfoj36_jWP_SRyA.webp)
+![alt text](https://miro.medium.com/max/640/1*jfQsujxwfoj36_jWP_SRyA.webp)
 
 Copy the key and Paste it into license field, and click next.
 
 
-![alt text]([http://url/to/img.png](https://miro.medium.com/max/720/1*kpZ9fxDmI0Iz5domjDbbfw.webp)
+![alt text](https://miro.medium.com/max/720/1*kpZ9fxDmI0Iz5domjDbbfw.webp)
 
 
 Now Press on “MANUAL ACTIVATION”
 
 
-![alt text]([http://url/to/img.png](https://miro.medium.com/max/640/1*uVb5tynZHj2i1KgWZApaPw.webp)
+![alt text](https://miro.medium.com/max/640/1*uVb5tynZHj2i1KgWZApaPw.webp)
 
 
 Now follow the steps in below image and copy paste the activation codes accordingly, and click next
 
-![alt text]([http://url/to/img.png](https://miro.medium.com/max/720/1*4NdzKtSkJSlp0aW2aovS7g.webp)
+![alt text](https://miro.medium.com/max/720/1*4NdzKtSkJSlp0aW2aovS7g.webp)
 
 
 Your Burpsuite Professional will be activated.
 
 
 
-![alt text]([http://url/to/img.png](https://miro.medium.com/max/640/1*JSSGZST3BzIOQOqOEXrEdA.webp)
+![alt text](https://miro.medium.com/max/640/1*JSSGZST3BzIOQOqOEXrEdA.webp)
 
 
 Now open Terminal into the same folder you extracted the BURPSUITE Zip file and type the below command
@@ -84,7 +84,7 @@ burp
 ![alt text](https://miro.medium.com/max/640/1*9ksjZHa6Fk2o0Qzx2fG14Q.webp)
 
 
-![alt text]([http://url/to/img.png](https://miro.medium.com/max/640/1*5LhXtX9R7xSenk68W43sFw.webp)
+![alt text](https://miro.medium.com/max/640/1*5LhXtX9R7xSenk68W43sFw.webp)
 
 
 We have successfully cracked Burpsuite, Now Happy Hunting for Bugs :)
