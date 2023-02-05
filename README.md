@@ -12,8 +12,10 @@ Follow below steps to get the Professional version of BurpSuite.
 Steps:
 Download the Burp-Suite from the link: https://mega.nz/folder/9slnkTxR#aif6p6nWN8zNQgrNiiOixg
 
-Extract the file. (Password: 123)
-
+Extract the file.
+```
+(Password: 123)
+```
 Visit the folder & Open terminal there
 
 
@@ -21,9 +23,9 @@ Visit the folder & Open terminal there
 
 
 Now run the following command to run the BURP-Loader:
-
+```
 java -jar burploader.jar
-
+```
 
 ![alt text](https://miro.medium.com/max/720/1*4yxra1EkcNJL0hz-xjNeTg.webp)
 
@@ -62,24 +64,24 @@ Your Burpsuite Professional will be activated.
 
 
 Now open Terminal into the same folder you extracted the BURPSUITE Zip file and type the below command
-
+```
 echo java -noverify -javaagent:burploader.jar -jar burpsuite_pro_v2020.12.1.jar > burp
-
+```
 
 Change the file permission by using the below command
-
+```
 chmod +x burp
-
+```
 
 Now move the file into the /bin folder, so you can run burpsuite professional.
-
+```
 mv burp /bin
-
+```
 
 Now just type “burp” into the terminal and the Burpsuite Professional will be launched.
-
+```
 burp
-
+```
 
 ![alt text](https://miro.medium.com/max/640/1*9ksjZHa6Fk2o0Qzx2fG14Q.webp)
 
@@ -88,6 +90,7 @@ burp
 
 
 We have successfully cracked Burpsuite, Now Happy Hunting for Bugs :)
-
+```
 All credits to : 
 https://systemweakness.com/how-to-crack-install-burpsuite-professional-in-kali-linux-a67eccba8b3d
+```
